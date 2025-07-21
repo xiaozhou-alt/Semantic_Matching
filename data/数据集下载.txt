@@ -1,0 +1,4 @@
+Kaggle：
+https://www.kaggle.com/datasets/rexinshiminxiaozhou/semantic-matching
+或阿里云天池（【NLP系列学习赛】语音助手：对话短文本语义匹配）：
+https://tianchi.aliyun.com/competition/entrance/532329
