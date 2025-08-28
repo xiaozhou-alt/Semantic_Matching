@@ -147,3 +147,5 @@ $N$：测试集中语义不匹配的样本的个数。
 战绩可查 ∠( ᐛ 」∠)_：
 
 ![record](./output/pic/record.png)
+
+更多信息请关注我的博客CSDN：[基于 BiLSTM+自注意力机制(改进双塔神经网络) 的短文本语义匹配](https://blog.csdn.net/soejjdiwjssundo/article/details/149546732)
